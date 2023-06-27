@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440175425070",
+    "project_id": "flash-chat-d7ae0",
+    "storage_bucket": "flash-chat-d7ae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440175425070:android:620e5739ba9396554251bf",
+        "android_client_info": {
+          "package_name": "likhayakulati.co.za.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440175425070-ildf0sr4jq78h3727ouoqgm2iv2s8hvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrtscOHYgxUSidylQlwI9mA_m_poNwqBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440175425070-ildf0sr4jq78h3727ouoqgm2iv2s8hvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
